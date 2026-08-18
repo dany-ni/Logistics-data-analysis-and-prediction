@@ -20,5 +20,5 @@ This Jupyter notebook provides a comprehensive analysis of logistics data with t
 6. **Model Evaluation**: Evaluating the performance of models using appropriate metrics to measure its prediction accuracy.  
 
 **Models**:  Linear Regression, Decision Tree, Random Forest, Gradient Boosting, KNN, SVR and MLP Regressor models.  
-**Evaluation Metrics**: mean squared error, mean absolute error, median absolute error and R-squared.
+**Evaluation Metrics**: mean squared error, root mean square error, mean absolute error, median absolute error and R-squared.
 
